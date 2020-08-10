@@ -1,0 +1,16 @@
+.description-heading-one {
+    font-size: 18px;
+    font-weight: Bold;
+    padding-bottom: 8px;
+    margin-top: 32px;
+}
+
+.concept-description {
+    margin-right: 32px;
+    width: 320px;
+  
+}
+
+.paragraph {
+    padding-top: 8px;
+}

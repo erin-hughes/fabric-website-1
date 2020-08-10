@@ -1,0 +1,15 @@
+.page-container {
+    margin-left: 226px;
+}
+
+@media screen and (max-width: 1052px) {
+    .page-container {
+        margin-left: 32px;
+    }
+}
+
+@media screen and (max-width: 877px) {
+    .page-container {
+        margin-right: 32px;
+    }
+}

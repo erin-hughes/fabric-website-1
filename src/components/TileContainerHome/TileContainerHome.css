@@ -1,0 +1,18 @@
+.tile-container-home {
+    display: flex;
+    margin-top: 72px;
+}
+
+@media screen and (max-width: 877px) {
+    .tile-container-home {
+        display: block;
+    }
+
+    .tile-container-home > .interactive-tile {
+        margin-bottom: 16px;
+    }
+
+    .tile-container-home > .interactive-tile:last-of-type {
+        margin-bottom: 0px;
+    }
+}

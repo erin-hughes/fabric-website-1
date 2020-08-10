@@ -1,0 +1,41 @@
+.tile-container-developer-reference {
+    display: flex;
+    margin-top: 32px;
+    margin-bottom: 40px;
+}
+
+.development-header {
+    font-size: 18px;
+    margin-top: 32px;
+}
+
+.development-paragraph {
+    max-inline-size: 672px;
+}
+
+.node-logo {
+    width: 22px;
+}
+
+@media screen and (max-width: 877px) {
+    .tile-container-developer-reference {
+        display: block;
+    }
+
+    .tile-container-developer-reference > .interactive-tile-colour {
+        margin-bottom: 16px;
+        width: auto;
+    }
+    
+    .tile-container-developer-reference > .interactive-tile-colour:hover {
+        margin-bottom: 14px;
+    }
+
+    .tile-container-developer-reference > .interactive-tile-colour:last-of-type {
+        margin-bottom: 0px;
+    }
+
+    .tile-container-developer-reference > .interactive-tile-colour:last-of-type:hover {
+        margin-bottom: -2px;
+    }
+}

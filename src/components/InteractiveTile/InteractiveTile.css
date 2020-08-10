@@ -1,0 +1,37 @@
+.interactive-tile {
+    margin-right: 32px;
+    background-color: #f3f3f3;
+    width: 288px;
+    height: 149px;
+    padding: 16px;
+    position: relative;
+}
+
+.interactive-tile:hover {
+    background-color: #DCDCDC;
+    cursor: pointer;
+}
+
+.tile-heading {
+    font: 18px "Lato";
+    font-weight: bold;
+    margin: 0;
+    display: inline-block;  
+    margin-right: 16px;
+}
+
+.go-to-page-icon {
+    margin-right: 16px;
+    margin-bottom: 16px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    vertical-align: bottom;
+    width: 24px;
+}
+
+.version-number {
+    display: inline-block;
+    margin: 0px;
+    
+}

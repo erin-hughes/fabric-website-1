@@ -1,0 +1,9 @@
+.fabric-illustration {
+    width: 1024px;
+}
+
+@media screen and (max-width: 1250px) {
+    .fabric-illustration {
+        width: 96%;
+    }
+}

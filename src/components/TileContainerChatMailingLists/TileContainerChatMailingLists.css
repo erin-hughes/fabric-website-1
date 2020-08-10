@@ -1,0 +1,18 @@
+.tile-container-chat-mailinglists {
+    display: flex;
+    margin-top: 32px;
+}
+
+@media screen and (max-width: 877px) {
+    .tile-container-chat-mailinglists {
+        display: block;
+    }
+
+    .tile-container-chat-mailinglists > .interactive-tile {
+        margin-bottom: 16px;
+    }
+
+    .tile-container-chat-mailinglists > .interactive-tile:last-of-type {
+        margin-bottom: 0px;
+    }
+}

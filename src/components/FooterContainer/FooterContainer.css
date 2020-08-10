@@ -1,0 +1,11 @@
+.footer-container {
+    margin-bottom: 62px;
+}
+
+.footer-links-container {
+    display: flex;
+}
+
+.copyright {
+    color: #6D7278;
+}

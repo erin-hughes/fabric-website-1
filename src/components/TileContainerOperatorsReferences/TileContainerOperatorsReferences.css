@@ -1,0 +1,18 @@
+.tile-container-operators {
+    display: flex;
+    margin-top: 32px;
+}
+
+@media screen and (max-width: 877px) {
+    .tile-container-operators {
+        display: block;
+    }
+
+    .tile-container-operators > .interactive-tile {
+        margin-bottom: 16px;
+    }
+
+    .tile-container-operators > .interactive-tile:last-of-type {
+        margin-bottom: 0px;
+    }
+}

@@ -1,0 +1,18 @@
+.tile-container-developer {
+    display: flex;
+    margin-top: 32px;
+}
+
+@media screen and (max-width: 877px) {
+    .tile-container-developer {
+        display: block;
+    }
+
+    .tile-container-developer > .interactive-tile {
+        margin-bottom: 16px;
+    }
+
+    .tile-container-developer > .interactive-tile:last-of-type {
+        margin-bottom: 32px;
+    }
+}
