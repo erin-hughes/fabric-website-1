@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/fabric-website/static/css/main.26b76d49.chunk.css",
+    "main.js": "/fabric-website/static/js/main.c0ce4c8f.chunk.js",
+    "main.js.map": "/fabric-website/static/js/main.c0ce4c8f.chunk.js.map",
+    "runtime-main.js": "/fabric-website/static/js/runtime-main.51367635.js",
+    "runtime-main.js.map": "/fabric-website/static/js/runtime-main.51367635.js.map",
+    "static/js/2.5550a2d0.chunk.js": "/fabric-website/static/js/2.5550a2d0.chunk.js",
+    "static/js/2.5550a2d0.chunk.js.map": "/fabric-website/static/js/2.5550a2d0.chunk.js.map",
+    "index.html": "/fabric-website/index.html",
+    "precache-manifest.e0cb47c45e0dc05101dbaf04b74d9879.js": "/fabric-website/precache-manifest.e0cb47c45e0dc05101dbaf04b74d9879.js",
+    "service-worker.js": "/fabric-website/service-worker.js",
+    "static/css/main.26b76d49.chunk.css.map": "/fabric-website/static/css/main.26b76d49.chunk.css.map",
+    "static/js/2.5550a2d0.chunk.js.LICENSE.txt": "/fabric-website/static/js/2.5550a2d0.chunk.js.LICENSE.txt",
+    "static/media/Caliper.png": "/fabric-website/static/media/Caliper.dffd1d5d.png",
+    "static/media/HeaderCommunityContributors.css": "/fabric-website/static/media/Fabric website header.dd2503aa.png",
+    "static/media/Fabric website illustration.png": "/fabric-website/static/media/Fabric website illustration.348da458.png",
+    "static/media/arrow--right.svg": "/fabric-website/static/media/arrow--right.cd011f69.svg",
+    "static/media/caret--down.svg": "/fabric-website/static/media/caret--down.a2c135d5.svg",
+    "static/media/caret--up.svg": "/fabric-website/static/media/caret--up.aa086bdf.svg",
+    "static/media/go.png": "/fabric-website/static/media/go.8f3a1403.png",
+    "static/media/launch.svg": "/fabric-website/static/media/launch.703cfe5d.svg",
+    "static/media/nodejs.png": "/fabric-website/static/media/nodejs.06dff725.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51367635.js",
+    "static/js/2.5550a2d0.chunk.js",
+    "static/css/main.26b76d49.chunk.css",
+    "static/js/main.c0ce4c8f.chunk.js"
+  ]
+}
