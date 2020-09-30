@@ -20,7 +20,7 @@ class FooterContainer extends React.Component {
                         heading='Find us'
                         links={[
                             <a href='https://github.com/hyperledger/fabric' target='_blank'>GitHub</a>,
-                            <a href='https://chat.hyperledger.org/home' target='_blank'>Rocket.Chat</a>,
+                            <a href='https://chat.hyperledger.org/home' target='_blank'>Chat</a>,
                             <a href='https://twitter.com/Hyperledger?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor' target='_blank'>Twitter</a>,
                             <a href='https://www.youtube.com/channel/UCCFdgCWH_1vCndMPVqQlwZw' target='_blank'>YouTube</a>
                         ]}
